@@ -1,6 +1,6 @@
 #Fruits list
 fruits = ["Apple", "Peach", "Pear"]
 for fruit in fruits:
-    print(fruit + "Pie")
+    print(fruit + " Pie")
     
 print(fruits)
