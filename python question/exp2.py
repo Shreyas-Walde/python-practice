@@ -30,7 +30,7 @@ password = []
 for char in range(1, nr_letters+1):
     password.append(random.choice(letters))  # or password += random.choice(letters)
 
-for int in range(1, nr_numbers+1):
+for char in range(1, nr_numbers+1):
     password.append(random.choice(numbers))
     
 for char in range(1,nr_symbols+1):
